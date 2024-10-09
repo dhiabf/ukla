@@ -1,0 +1,39 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+
+# iOS specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcworkspace
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/app/src/main/res/generated/
+android/local.properties
+android/gradle/
+android/gradle-wrapper.jar
+android/gradle-wrapper.properties
+*.iml
+
+# Misc
+*.log
+*.tmp
+*.swp
+
+# Flutter web specific
+web/.dart_tool/
+web/build/
+
+# VS Code specific
+.vscode/
+.idea/
